@@ -6,7 +6,7 @@
 
 ### Outline
 
-<img src="E:\Reinforcement_Learning\Notes\assets\image-20261019210145674.png" alt="image-20261019210145674" style="zoom:50%;" />
+<img src="./assets/image-20261019210145674.png" style="zoom:50%;" />
 
 **PART_1** :  建立基础性认知，对一般性问题能抽象建模，对`RL`有直观认知
 
